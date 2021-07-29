@@ -74,6 +74,6 @@ You can see that the resume is up, you can now modify the contents accordingly. 
 
 Contributing
 ------------
-Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please email me - [localhost](kashish.chaurasia10@gmail.com), submit a pull request or submit an issue.
+Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please [email me](kashish.chaurasia10@gmail.com), submit a pull request or submit an issue.
 
 
