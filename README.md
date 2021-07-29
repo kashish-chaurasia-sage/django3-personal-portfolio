@@ -2,7 +2,7 @@ Personal Portfolio - Django 3.0
 ==========================================================
 My personal website. A simple, easily modifiable, based on Djnago that is deployed cuurently on pythonanywhere. Built using Django,bootsrap 4, python,sql,javascript, html/css, SCSS, github actions, and many other useful technologies.
 
-* Website: [kashish.portfolio]](https://kashishchaurasia.pythonanywhere.com/)
+* Website: [kashish.portfolio](https://kashishchaurasia.pythonanywhere.com/)
 
 Features
 --------
@@ -68,12 +68,12 @@ python manage.py runserver
 
 Go-to Localhost :
 
-Website: [localhost]](http://127.0.0.1:8000/)
+Website: [localhost](http://127.0.0.1:8000/)
 
 You can see that the resume is up, you can now modify the contents accordingly. All the static file, images or resume are in medial folder.
 
 Contributing
 ------------
-Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please email me - [localhost]](kashish.chaurasia10@gmail.com), submit a pull request or submit an issue.
+Contributions are actively encouraged. Please review the code. If you find a bug, or any improvement please email me - [localhost](kashish.chaurasia10@gmail.com), submit a pull request or submit an issue.
 
 
